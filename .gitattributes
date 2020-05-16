@@ -1,0 +1,7 @@
+# Files to exclude from ZIP downloads.
+
+/.gitattributes     export-ignore
+/.gitignore         export-ignore
+/.icon.png          export-ignore
+/.icon.png.import   export-ignore
+/project.godot      export-ignore
